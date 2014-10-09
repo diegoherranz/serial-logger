@@ -4,7 +4,7 @@ Simple serial logger written in Python.
 
 Logs everything received through a serial port (native or virtual) into a file whose name is the date and time when the log started, e.g. `2014-10-07T13.04.50.bin`.
 
-Tested in Windows and Linux. It works on the Rapsberry Pi (Raspbian).
+Tested in Windows and Linux. It also works on the Raspberry Pi (tested on Raspbian).
 
 
 Requirements
